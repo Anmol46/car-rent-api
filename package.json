@@ -1,0 +1,20 @@
+{
+  "name": "carrentalagency",
+  "version": "1.0.0",
+  "description": "car rental agency app",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongo": "^0.1.0",
+    "mongodb": "^3.6.0",
+    "mongoose": "^5.10.0",
+    "update-mongo": "0.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anmol Ranglani",
+  "license": "ISC"
+}
